@@ -7,4 +7,4 @@ In order to achieve the same, please follow the link provided below:<br>
 
 <strong>Website Link</strong>-> https://geekylane.com/one-click-wordpress-set-up-with-docker-and-docker-compose-local-live-cloud-without-ssl/<br>
 
-<strong>Note:</strong> The actual repository is https://github.com/geekylane/wordpress-lemp-without-ssl.git which again owned by me.
+<strong>Note:</strong> The actual repository is https://github.com/geekylane/wordpress-lemp-without-ssl.git which is again owned by me.
