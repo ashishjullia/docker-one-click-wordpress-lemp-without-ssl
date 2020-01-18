@@ -5,6 +5,6 @@ With this one can easily setup a local or live wordpress setup for testing or fo
 
 In order to achieve the same, please follow the link provided below:<br>
 
-<strong>PDF File</strong>-> https://geekylane.com/one-click-wordpress-set-up-with-docker-and-docker-compose-local-live-cloud-without-ssl/<br>
+<strong>Website Link</strong>-> https://geekylane.com/one-click-wordpress-set-up-with-docker-and-docker-compose-local-live-cloud-without-ssl/<br>
 
 <strong>Note:</strong> The actual repository is https://github.com/geekylane/wordpress-lemp-without-ssl.git which again owned by me.
