@@ -1,4 +1,5 @@
-# docker-wordpress-lemp-without-ssl
+# One Click Docker Wordpress Lemp Set-up (Without SSL)
+
 This is an easy one click wordpress install on the top of LEMP stack with the help of docker under the hood, but without ssl.<br>
 
 With this one can easily setup a local or live wordpress setup for testing or for production with one click.<br>
